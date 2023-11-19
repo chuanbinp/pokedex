@@ -1,0 +1,6 @@
+fastapi==0.104.1
+Pillow==10.1.0
+pinecone_client==2.2.4
+transformers==4.34.1
+uvicorn==0.23.2
+python-multipart==0.0.6
